@@ -10,8 +10,8 @@ from torch.utils.data import DataLoader
 from metric import AverageMeter, accuracy, macc, intersectionAndUnion
 from tqdm import tqdm
 
-val_file = r"F:\Dataset\nyudv2\test_t.txt"
-weight_dir = r"C:\Users\Wizard\Desktop\statistical\nyu\CMFormer-S\CMFormer-S(mIoU=50.42, MPA=62.01).pth"
+val_file = r"./datasets/nyudv2/test.txt"
+weight_dir = r"./save_weight/CMFormer-S.pth"
 vis_save_dir = r"./visualization"
 visualize = False
 

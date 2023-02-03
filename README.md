@@ -6,9 +6,9 @@ Results on NYU Depth V2 dataset
 
 |   model    | MPA(%) | mIoU(%) | Params/M | FLOPs/G |                            Weight                            |
 | :--------: | :----: | :-----: | :------: | :-----: | :----------------------------------------------------------: |
-| CMFormer-S | 62.01  |  50.42  |  47.93   |  35.97  | [CMFormer-S](https://pan.baidu.com/s/1TzHuv3u0JJYGsH5C-5Tc4w?pwd=CDUT <br/>提取码：CDUT) |
-| CMFormer-M | 66.36  |  54.12  |  81.75   |  68.38  | [CMFormer-M](https://pan.baidu.com/s/189TVQZF59ZXjUs7ZxR62LA?pwd=CDUT <br/>提取码：CDUT) |
-| CMFormer-L | 68.00  |  55.75  |  131.41  | 128.92  | [CMFormer-L](https://pan.baidu.com/s/1RYB8Jk0la8irm3UNz9KBzA?pwd=CDUT <br/>提取码：CDUT) |
+| CMFormer-S | 62.01  |  50.42  |  47.93   |  35.97  | [CMFormer-S](链接：https://pan.baidu.com/s/1TzHuv3u0JJYGsH5C-5Tc4w?pwd=CDUT <br/>提取码：CDUT) |
+| CMFormer-M | 66.36  |  54.12  |  81.75   |  68.38  | [CMFormer-M](链接：https://pan.baidu.com/s/189TVQZF59ZXjUs7ZxR62LA?pwd=CDUT <br/>提取码：CDUT) |
+| CMFormer-L | 68.00  |  55.75  |  131.41  | 128.92  | [CMFormer-L](链接：https://pan.baidu.com/s/1RYB8Jk0la8irm3UNz9KBzA?pwd=CDUT <br/>提取码：CDUT) |
 
 ### Requirements
 
