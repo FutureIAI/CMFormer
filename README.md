@@ -10,7 +10,7 @@ Results on NYU Depth V2 dataset
 | CMFormer-M | 66.36  |  54.12  |  81.75   |  68.38  | [CMFormer-M](链接：https://pan.baidu.com/s/189TVQZF59ZXjUs7ZxR62LA?pwd=CDUT <br/>提取码：CDUT) |
 | CMFormer-L | 68.00  |  55.75  |  131.41  | 128.92  | [CMFormer-L](链接：https://pan.baidu.com/s/1RYB8Jk0la8irm3UNz9KBzA?pwd=CDUT <br/>提取码：CDUT) |
 
-### RequirementsL
+### Requirements
 
 ```
 python3
